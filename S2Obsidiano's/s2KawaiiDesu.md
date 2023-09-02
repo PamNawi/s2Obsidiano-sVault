@@ -1,14 +1,10 @@
 ---
 dg-publish: true
-permalink: /site/notes/s2-kawaii-desu/
-tags:
-  - gardenEntry
-  - gardenEntry
-  - gardenEntry
-  - gardenEntry
-  - gardenEntry
 dg-home: true
+permalink: /site/notes/s2KawaiiDesu
 ---
+
+
 ![[kawaiiLogo.png]]
 ## Bem vindo à s2KawaiDesu
 
