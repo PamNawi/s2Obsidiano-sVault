@@ -11,12 +11,8 @@
             "id": "a38648ea23f4b7e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "s2KawaiiDesu.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "s2KawaiiDesu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "s2KawaiiDesu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "s2KawaiiDesu.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,12 +141,15 @@
   },
   "active": "a38648ea23f4b7e7",
   "lastOpenFiles": [
+    "2023-09-02.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "s2KawaiiDesu.md",
     "kawaiiLogo.png",
     "Links uteis.md",
     "Eventos/Eventos 2023/Agosto - Pedra, papel e tesoura.md",
     "Eventos/Eventos 2023",
     "Eventos",
-    "s2KawaiiDesu.md",
     "Instancias/Thanatos Tower.md",
     "Instancias/Echoing Corridor (EC).md",
     "Instancias",
@@ -167,7 +162,6 @@
     "Images/Pasted image 20230831021016.png",
     "Images/Pasted image 20230831020255.png",
     "Images/Pasted image 20230831020132.png",
-    "Images/Pasted image 20230831020116.png",
     "Images"
   ]
 }
