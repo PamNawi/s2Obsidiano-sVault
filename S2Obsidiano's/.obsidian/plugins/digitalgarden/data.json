@@ -5,10 +5,10 @@
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
-  "theme": "{\"name\":\"🔔 Chime\",\"author\":\"Ha'ani Whitlock\",\"repo\":\"Bluemoondragon07/chime-theme\",\"screenshot\":\"Chime.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/Bluemoondragon07/chime-theme/HEAD/theme.css\"}",
+  "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
   "faviconPath": "",
   "noteSettingsIsInitialized": true,
-  "siteName": "Digital Garden",
+  "siteName": "s2Kawaii",
   "slugifyEnabled": true,
   "noteIconKey": "dg-note-icon",
   "defaultNoteIcon": "",
@@ -27,14 +27,14 @@
   "contentClassesKey": "dg-content-classes",
   "defaultNoteSettings": {
     "dgHomeLink": true,
-    "dgPassFrontmatter": false,
-    "dgShowBacklinks": false,
-    "dgShowLocalGraph": false,
-    "dgShowInlineTitle": false,
-    "dgShowFileTree": false,
-    "dgEnableSearch": false,
-    "dgShowToc": false,
-    "dgLinkPreview": false,
-    "dgShowTags": false
+    "dgPassFrontmatter": true,
+    "dgShowBacklinks": true,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": true,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": true,
+    "dgLinkPreview": true,
+    "dgShowTags": true
   }
 }
